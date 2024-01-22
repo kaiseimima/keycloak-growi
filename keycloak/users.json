@@ -1,0 +1,14 @@
+{
+    "username": "newusername2",
+    "enabled": true,
+    "credentials": [
+        {
+            "type": "password",
+            "value": "passpss2",
+            "temporary": false
+        }
+    ],
+    "realmRoles": [
+        "user"
+    ]
+}

@@ -1,0 +1,11 @@
+*.p12
+*.key
+*.log
+*.tlog
+*.ckp
+*.st
+es_data/
+examples/
+mongo_db/
+
+
